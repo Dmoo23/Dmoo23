@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Mein Name ist David und ich studiere Wirtschaftswissenschaften mit dem Profil Data Science an der Universität Bielefeld.
+ Mein Name ist David und ich studiere Wirtschaftswissenschaften mit dem Profil Data Science an der Universität Bielefeld.
 - 🔭 Aktuell arbeite ich an meiner Bachelorarbeit zum Thema Forecasting von erneuerbaren Energien sowie am Robot Crap Clearing-Problem.
 
 - 🌱 Außerdem bilde ich mich derzeit im Bereich der Programmierung mit PyTorch weiter.
